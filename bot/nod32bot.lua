@@ -248,10 +248,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -514,10 +511,7 @@ you can use both "/" and "!"
 Developer: @BehroozYaghi
 توسعه دهنده
 
-channel: @Nod32team
-کانال ما
 
-G00D LUCK ^_^
 ]]
   }
   serialize_to_file(config, './data/config.lua')
