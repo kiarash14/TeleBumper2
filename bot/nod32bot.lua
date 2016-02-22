@@ -232,7 +232,6 @@ function create_config( )
     "plugins",
     "google",
     "spm",
-    "chatbot",
     "version",
     "support",
     "gps",
