@@ -1,15 +1,9 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'tele-BOT v5'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
-  
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 5
+ VERSION 5
   
   All rights reserved.
   __________________]]
