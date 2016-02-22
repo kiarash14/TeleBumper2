@@ -507,9 +507,6 @@ This command will send text to [group_id]
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
-توسعه دهنده
-
 
 ]]
   }
