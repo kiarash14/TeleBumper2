@@ -1,6 +1,6 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [TeleBumper](https://telegram.me/TeleBumper)
 
-[![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![https://gitter.im/kiarash14/TeleBumper2](https://badges.gitter.im/kiarash14/TeleBumper2.svg)](https://gitter.im/kiarash14/TeleBumper2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
@@ -282,14 +282,11 @@ Create a realm using the `!createrealm` command.
 Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 1047524697` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 1047524697` to [@TeleBumper](https://telegram.me/TeleBumper)
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
 
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
-
-[@Vamptacus](https://telegram.me/Vamptacus)
+For managing [@TeleBumper](https://telegram.me/TeleBumper) on Telegram.
 
 For graphic designs.
 
@@ -299,18 +296,6 @@ For graphic designs.
 
 * * *
 
-# Our team!
-
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
-
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
-
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
-
 ###Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
-
-Persian: [@IranSeed](https://telegram.me/iranseed)
+Persian: [@TeleBumperCh](https://telegram.me/TeleBumperCh)
